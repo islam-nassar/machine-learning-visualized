@@ -1,2 +1,2 @@
 # machine-learning-visualized
-Basic ML models with visulaization to help understand the underlying conepts
+Basic ML models with visualizations to help understand the underlying concepts
